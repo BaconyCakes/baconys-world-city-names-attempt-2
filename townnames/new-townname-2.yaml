@@ -1,0 +1,9 @@
+available: false
+id: 2
+mainset:
+- names:
+  - name: Abidjan
+    probability: 200
+name: 'New Townname #2'
+source: ''
+subsets: []
